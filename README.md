@@ -1,0 +1,5 @@
+- apt update
+- apt install git
+- git clone https://github.com/R1punk/ubl
+- cd ubl
+- bash ubl.sh
