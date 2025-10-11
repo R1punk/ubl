@@ -1,5 +1,5 @@
 - apt update
-- apt install git
+- apt install git jq
 - git clone https://github.com/R1punk/ubl
 - cd ubl
 - bash ubl.sh
