@@ -1,5 +1,5 @@
 - apt update
-- apt install git jq
+- apt install git jq vim-common -y
 - git clone https://github.com/R1punk/ubl
 - cd ubl
 - bash ubl.sh
